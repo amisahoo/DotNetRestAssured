@@ -64,7 +64,7 @@ namespace TrainingLecture1.BankApplication
             { 
                 this.accountBalance -= debit;
                 Console.WriteLine("Amount Debited successfully");
-                statement.Add($"{DateTime.Now} : Credit of Rs {debit}");
+                statement.Add($"{DateTime.Now} : Debit of Rs {debit}");
 
             }
             else
@@ -77,6 +77,7 @@ namespace TrainingLecture1.BankApplication
         public void DisplayStatement()
         {
             Console.WriteLine(  "\n-----------------Statement-----------------------------\n");
+            Console.WriteLine($"Account Holder Name is {AccountHolderName} \nAccount Number is {AccountNumber}");
             foreach (string str in statement) { Console.WriteLine($"{str}\n"); }
             DisplayCurrentBalance();
             Console.WriteLine("\n-----------------End-----------------------------\n");
