@@ -1,0 +1,16 @@
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\bin\Debug\net5.0\TrainingLecture1.exe
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\bin\Debug\net5.0\TrainingLecture1.deps.json
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\bin\Debug\net5.0\TrainingLecture1.runtimeconfig.json
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\bin\Debug\net5.0\TrainingLecture1.runtimeconfig.dev.json
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\bin\Debug\net5.0\TrainingLecture1.dll
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\bin\Debug\net5.0\ref\TrainingLecture1.dll
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\bin\Debug\net5.0\TrainingLecture1.pdb
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\obj\Debug\net5.0\TrainingLecture1.csproj.AssemblyReference.cache
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\obj\Debug\net5.0\TrainingLecture1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\obj\Debug\net5.0\TrainingLecture1.AssemblyInfoInputs.cache
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\obj\Debug\net5.0\TrainingLecture1.AssemblyInfo.cs
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\obj\Debug\net5.0\TrainingLecture1.csproj.CoreCompileInputs.cache
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\obj\Debug\net5.0\TrainingLecture1.dll
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\obj\Debug\net5.0\ref\TrainingLecture1.dll
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\obj\Debug\net5.0\TrainingLecture1.pdb
+C:\Users\amita\source\repos\TrainingLecture1\TrainingLecture1\obj\Debug\net5.0\TrainingLecture1.genruntimeconfig.cache
